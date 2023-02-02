@@ -3,6 +3,27 @@
 
 # Reactive Patterns with RxJS for Angular
 
+## Chapter
+1. The Power of the Reactive Paradigm
+2. RxJS7 - The Major Features
+3. A Walkthrough of the Application
+4. Fetching Data as Streams
+5. Error Handling
+
+
+6. Combining Streams
+   ```
+   combineLatest
+   ```
+
+7. Transforming Streams
+8. Multicasting Essentials
+9.  Caching Streams
+10. Sharing Data between Components
+11. Bulk Operations
+12. Processing Real-Time Updates
+13. Testing RxJS Observables
+
 <a href="https://www.packtpub.com/product/reactive-patterns-with-rxjs-for-angular/9781801811514?utm_source=github&utm_medium=repository&utm_campaign=9781801811514"><img src="https://static.packt-cdn.com/products/9781801811514/cover/smaller" alt="Reactive Patterns with RxJS for Angular" height="256px" align="right"></a>
 
 This is the code repository for [Reactive Patterns with RxJS for Angular](https://www.packtpub.com/product/reactive-patterns-with-rxjs-for-angular/9781801811514?utm_source=github&utm_medium=repository&utm_campaign=9781801811514), published by Packt.
